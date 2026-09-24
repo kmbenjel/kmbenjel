@@ -107,7 +107,6 @@ I'm also **open to relocating for a full-time role with visa sponsorship**.
 | [Blockchain](<https://storage.googleapis.com/programminghub/certificate%2F1683430104044.pdf>) | Programming Hub | May 2023 |
 | [Learn HTML](<https://www.codecademy.com/profiles/kmbenjel/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7>) | Codecademy | May 2023 |
 | [Selenium Automated Testing](<https://storage.googleapis.com/programminghub/certificate%2F1682620006026.pdf>) | Programming Hub | Apr 2023 |
-| [Ruby, with honors](<https://storage.googleapis.com/programminghub/certificate%2F1682406862700.pdf>) | Programming Hub | Apr 2023 (first earned May 2020) |
 | [Java](<https://storage.googleapis.com/programminghub/certificate%2F1682666973190.pdf>) | Programming Hub | Apr 2023 |
 | [C Programming](<https://storage.googleapis.com/programminghub/certificate%2F1682577838300.pdf>) | Programming Hub | Apr 2023 |
 | [C Advanced](<https://storage.googleapis.com/programminghub/certificate%2F1682664284237.pdf>) | Programming Hub | Apr 2023 |
@@ -121,6 +120,7 @@ I'm also **open to relocating for a full-time role with visa sponsorship**.
 | [Learn Ruby on Rails](<https://www.codecademy.com/profiles/kmbenjel/certificates/13df149ad4f7cadbb4c65603fb695cf8>) | Codecademy | Jan 2021 |
 | [HTML Essential Training](https://www.linkedin.com/learning/certificates/0edcef742a4526d3e73e930ff23ecc7e54d11e847f38f1d779ec10e76d8a88a0) | LinkedIn Learning | Oct 2020 |
 | Full Stack Development Track, One Million Arab Coders (ID `6TKGZEGK`) | Udacity | May 2020 |
+| [Ruby](<https://storage.googleapis.com/programminghub/certificate%2F1682406862700.pdf>) | Programming Hub | May 2020 |
 | [Learn Ruby](https://www.codecademy.com/profiles/khalid_prog/certificates/1c05e0382bc5681c824c4cbe85c126fd) | Codecademy | Apr 2019 |
 
 </details>
