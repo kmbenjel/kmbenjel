@@ -4,6 +4,8 @@
 
 **Web developer: bilingual interfaces, Arabic typography & digital publishing**
 
+🟢 Available for freelance · Open to relocation with visa sponsorship
+
 I build fast, accessible, SEO-ready websites and web apps, with particular care for Arabic / RTL text,
 from print-quality Arabic poetry readers to Rails SaaS apps and business sites.
 
@@ -19,6 +21,7 @@ from print-quality Arabic poetry readers to Rails SaaS apps and business sites.
 ## 💼 Available for freelance work
 
 I'm **open to freelance gigs and contract work**, remote or in Morocco, in English, Arabic or French.
+I'm also **open to relocating for a full-time role with visa sponsorship**.
 
 - **Websites & landing pages**: fast, responsive, SEO-optimized, deployed with a custom domain
 - **Arabic / RTL & bilingual sites**: proper Arabic typography, kashida justification, RTL layouts
@@ -72,4 +75,61 @@ I'm **open to freelance gigs and contract work**, remote or in Morocco, in Engli
 ## 🎓 Background
 
 - **1337 (42 Network)** and **ALX Software Engineering**: peer-learning programs focused on C, Unix, algorithms and full-stack development
-- **Oracle Java Foundations**, **Udacity Full Stack (One Million Arab Coders)**, **CodinGame Ruby (honors)** and **CodinGame "Legend" coding speed**, plus [20+ other certifications](https://benjelloun.dev)
+- **[ACM](https://www.acm.org) member** since 2022
+
+---
+
+## 📜 Certifications
+
+**23 certifications from 7 issuers, 2019–2025.** Also on [LinkedIn](https://www.linkedin.com/in/kmbenjel/details/certifications/) and [benjelloun.dev](https://benjelloun.dev).
+
+| Oracle | CodinGame | Udacity | Codecademy | Programming Hub | LinkedIn Learning | ACM |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | 2 | 1 | 7 | 10 | 1 | 1 |
+
+### Highlights
+
+- 🏅 **[Oracle Java Foundations](https://mylearn.oracle.com/api/badges/metadata/ou/learning-path/oracle-java-foundations-training-and-assessment/152239)**, Oracle, Aug 2025
+- 🏅 **[Ruby Certification, with honors](https://www.codingame.com/certification/hR6v18hfToCpwItlWZxYUw)**, CodinGame, Dec 2023
+- 🏅 **[Coding speed: Legend level](https://www.codingame.com/certification/3vLFQ1_sEoCHxCSL2pSpnQ)**, CodinGame, Jan 2024
+- 🏅 **Full Stack Development Track, One Million Arab Coders**, Udacity, May 2020 (credential ID `6TKGZEGK`)
+
+<details>
+<summary><b>All 23 certifications</b></summary>
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| [Oracle Java Foundations](https://mylearn.oracle.com/api/badges/metadata/ou/learning-path/oracle-java-foundations-training-and-assessment/152239) | Oracle | Aug 2025 |
+| [Effective Team Communication](https://www.codecademy.com/profiles/kmbenjel/certificates/a822776856a348e6a80e224aa9264ad5) | Codecademy | May 2025 |
+| [Coding speed: Legend level](https://www.codingame.com/certification/3vLFQ1_sEoCHxCSL2pSpnQ) | CodinGame | Jan 2024 |
+| [Ruby Certification, with honors](https://www.codingame.com/certification/hR6v18hfToCpwItlWZxYUw) | CodinGame | Dec 2023 |
+| [Python](<https://storage.googleapis.com/programminghub/certificate%2F1683524017141.pdf>) | Programming Hub | May 2023 |
+| [Blockchain](<https://storage.googleapis.com/programminghub/certificate%2F1683430104044.pdf>) | Programming Hub | May 2023 |
+| [Learn HTML](<https://www.codecademy.com/profiles/kmbenjel/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7>) | Codecademy | May 2023 |
+| [Selenium Automated Testing](<https://storage.googleapis.com/programminghub/certificate%2F1682620006026.pdf>) | Programming Hub | Apr 2023 |
+| [Java](<https://storage.googleapis.com/programminghub/certificate%2F1682666973190.pdf>) | Programming Hub | Apr 2023 |
+| [C Programming](<https://storage.googleapis.com/programminghub/certificate%2F1682577838300.pdf>) | Programming Hub | Apr 2023 |
+| [C Advanced](<https://storage.googleapis.com/programminghub/certificate%2F1682664284237.pdf>) | Programming Hub | Apr 2023 |
+| [HTML](<https://storage.googleapis.com/programminghub/certificate%2F1682621823287.pdf>) | Programming Hub | Apr 2023 |
+| [Shell Script](<https://storage.googleapis.com/programminghub/certificate%2F1682405241116.pdf>) | Programming Hub | Apr 2023 |
+| [Programming Fundamentals](<https://storage.googleapis.com/programminghub/certificate%2F1682661051923.pdf>) | Programming Hub | Apr 2023 |
+| ACM membership | ACM, Association for Computing Machinery | Apr 2022 |
+| [Learn Bash Scripting](<https://www.codecademy.com/profiles/kmbenjel/certificates/37c55263a9f1b1f7603f7551c293ecbd>) | Codecademy | Mar 2022 |
+| [Learn the Command Line](<https://www.codecademy.com/profiles/kmbenjel/certificates/c87ba0541f8be78bc2f4ba1128233f6f>) | Codecademy | Nov 2021 |
+| [Learn Git and GitHub](<https://www.codecademy.com/profiles/kmbenjel/certificates/a8ab218d5950c29861635cc0bf12fd13>) | Codecademy | Sep 2021 |
+| [Learn Ruby on Rails](<https://www.codecademy.com/profiles/kmbenjel/certificates/13df149ad4f7cadbb4c65603fb695cf8>) | Codecademy | Jan 2021 |
+| [HTML Essential Training](https://www.linkedin.com/learning/certificates/0edcef742a4526d3e73e930ff23ecc7e54d11e847f38f1d779ec10e76d8a88a0) | LinkedIn Learning | Oct 2020 |
+| Full Stack Development Track, One Million Arab Coders (ID `6TKGZEGK`) | Udacity | May 2020 |
+| [Ruby](<https://storage.googleapis.com/programminghub/certificate%2F1682406862700.pdf>) | Programming Hub | May 2020 |
+| [Learn Ruby](https://www.codecademy.com/profiles/khalid_prog/certificates/1c05e0382bc5681c824c4cbe85c126fd) | Codecademy | Apr 2019 |
+
+</details>
+
+---
+
+<div align="center">
+
+**Let's work together.** Freelance, contract, or full-time with relocation.<br>
+[LinkedIn](https://www.linkedin.com/in/kmbenjel) · [khalidmailing@gmail.com](mailto:khalidmailing@gmail.com) · [benjelloun.dev](https://benjelloun.dev)
+
+</div>
