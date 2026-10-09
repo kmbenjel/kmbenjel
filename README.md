@@ -18,7 +18,7 @@ Fes, Morocco · Remote-first · Open to junior/entry roles and freelance/contrac
 I'm a self-taught developer who has been programming since 2012, trained at **1337 / 42 Network** (C, Unix, live peer review with no documentation) and **Le Wagon** (Rails, PostgreSQL). I build useful web experiences with an eye for language, clarity and performance: bilingual interfaces, Arabic text editions and print-friendly readers. I learn new stacks quickly and ship small, careful work.
 
 - **Competitive-programming pedigree:** CodinGame **Legend Level in Coding Speed (top 0.1% globally)**, Ruby Certification with Honors, Codewars 5 kyu with 101 kata across 8 languages.
-- **Systems fundamentals:** libft, ft_printf, Minitalk and a hardened Debian server (Born2BeRoot), each defended live.
+- **Systems fundamentals:** a set of C libraries and tools built from scratch at 1337 / 42, plus a hardened Debian server (Born2BeRoot), each defended live.
 - **Arabic and RTL specialist:** a niche I build for on purpose. My Arabic sites score **100/100 on Google PageSpeed Insights**.
 - **Languages:** Arabic (native), English, French (professional), Spanish (basic).
 
@@ -27,7 +27,7 @@ I'm a self-taught developer who has been programming since 2012, trained at **13
 | Project | What it is | Stack |
 |---|---|---|
 | [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://hmittou.benjelloun.dev) | Responsive reader and print-ready PDF edition of a rajaz poem by Dr. Abd al-Hadi Hmittou. 100/100 PageSpeed, SEO-optimised. | HTML, CSS, JS, RTL typography |
-| [**libft**](https://github.com/kmbenjel/libft) | C standard library rebuilt from scratch: strings, memory, linked lists. | C |
+| **C from scratch (1337 / 42)** <br> [libft](https://github.com/kmbenjel/libft) · [ft_printf](https://github.com/kmbenjel/ft_printf) · [get_next_line](https://github.com/kmbenjel/get_next_line) · [minitalk](https://github.com/kmbenjel/minitalk) | My own C standard library (strings, memory, linked lists), a `printf` built on variadic functions, a buffered line reader over file descriptors, and a client/server pair that talks only through Unix signals. Each defended live in peer review. | C, Unix, Make |
 | [**anki_madani_numbering**](https://github.com/kmbenjel/anki_madani_numbering) | Anki deck for Quran verse-numbering revision (Warsh). 8 stars. | Anki |
 
 ## Toolbox

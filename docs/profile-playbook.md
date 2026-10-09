@@ -9,7 +9,7 @@ Lead with what is hard to fake and easy to verify: **CodinGame Legend (top 0.1%)
 ## Do these by hand (2 minutes)
 
 1. **Bio:** replace "Learning to code" (a red flag for recruiters) with the line in `scripts/organize-repos.sh`.
-2. **Pins (3):** hmittou, libft, anki_madani_numbering: a live site, low-level C and a tool people use. A few strong pins beat six mixed ones; add more only when a project is finished.
+2. **Pins (6):** hmittou, anki_madani_numbering, then the four C projects together: libft, ft_printf, get_next_line, minitalk. Shown as a set, they read as a systems track rather than one school exercise.
 3. **Profile photo:** use a clear headshot; recruiters skim faces and names.
 4. **Contribution graph:** Settings > Public profile > tick "Include private contributions" so your steady activity shows.
 5. **Run** `./scripts/organize-repos.sh` once in dry-run mode, edit the lists, then `APPLY=1`.
@@ -17,7 +17,7 @@ Lead with what is hard to fake and easy to verify: **CodinGame Legend (top 0.1%)
 ## Repo organization
 
 - **Loopline:** unfinished, AI-assisted work that needs proper care. It goes private until it has tests, review and a deploy you would defend in an interview.
-- **Showcase (3):** pinned, with descriptions and topics.
+- **Showcase:** hmittou, anki_madani_numbering and the four C projects (not archived), pinned, with descriptions and topics.
 - **Archive (about 40):** 42, ALX, bootcamp and kata repos. They stay public and show a learning path, but archived repos read as "finished" instead of "abandoned".
 - **Private (about 12):** empty, test and scratch repos. Repos that look like live sites (nwd, share-hub, hbatelier49, ayoub-zrabi, library) are left alone until you confirm what they are. 97 public repos with no signal hide the few that matter.
 - 42 school asks students not to publish solutions to current projects. If any of the archived 42 repos could count as that, make them private instead.

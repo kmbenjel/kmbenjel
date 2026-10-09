@@ -33,14 +33,17 @@ describe() { # repo "description" "homepage" topic...
 }
 describe hmittou   "Reader and print-ready PDF edition of a classical Arabic rajaz poem. 100/100 PageSpeed, RTL." "https://hmittou.benjelloun.dev" arabic rtl pwa accessibility seo
 describe libft     "C standard library rebuilt from scratch (42 / 1337): strings, memory, linked lists." "" c 42-school 1337 libft
+describe ft_printf "printf reimplemented in C with variadic functions (42 / 1337)." "" c 42-school 1337 printf
+describe get_next_line "Read a file descriptor line by line with a static buffer, in C (42 / 1337)." "" c 42-school 1337
+describe minitalk  "Client/server that sends strings using only Unix signals, SIGUSR1/SIGUSR2 (42 / 1337)." "" c 42-school 1337 unix signals ipc
 describe anki_madani_numbering "Anki deck for the Madani (last) verse numbering and Warsh mushaf revision." "" anki quran warsh
 
 # 3. Pin order on the profile must be set by hand (GitHub has no public API):
-#    Profile > Customize your pins > hmittou, libft, anki_madani_numbering
+#    Profile > Customize your pins > hmittou, anki_madani_numbering, libft, ft_printf, get_next_line, minitalk
 
 # 4. Archive finished coursework: stays public as proof of learning, but reads as "done".
 ARCHIVE=(
-  1337_Piscine_June-06-Benguerir 1337_pool ft_printf get_next_line push_swap minitalk
+  1337_Piscine_June-06-Benguerir 1337_pool push_swap
   so_long fractol ft_putnbr rendu exam rush00 binary_trees AirBnB_clone
   RSA-Factoring-Challenge alx-pre_course alx-zero_day alx-low_level_programming
   alx-higher_level_programming alx-system_engineering-devops 0x03-shell_variables_expansions
