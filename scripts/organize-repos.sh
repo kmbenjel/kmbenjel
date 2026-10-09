@@ -13,29 +13,31 @@ OWNER=kmbenjel
 APPLY=${APPLY:-0}
 
 run() {
-  if [ "$APPLY" = 1 ]; then "$@"; else printf 'DRY: %q ' "$@"; echo; fi
+  if [ "$APPLY" = 1 ]; then "$@"; else printf 'DRY:'; printf ' %q' "$@"; echo; fi
 }
 
 # 1. Profile: replace "Learning to code" with a positioning line.
 run gh api -X PATCH user \
-  -f bio="Backend & full-stack dev · Rails · C · Arabic/RTL web · CodinGame Legend (top 0.1%) · open to remote work" \
+  -f bio="Developer · Arabic interfaces & digital publishing · Rails · C · CodinGame Legend (top 0.1%) · open to remote work" \
   -f blog="https://benjelloun.dev" \
   -f location="Fes, Morocco" \
   -F hireable=true
 
 # 2. Description + topics for showcase repos (what a recruiter sees on the pinned cards).
-describe() { # repo "description" topic...
-  local repo=$1 desc=$2; shift 2
+describe() { # repo "description" "homepage" topic...
+  local repo=$1 desc=$2 home=$3; shift 3
   local args=(--description "$desc")
+  [ -n "$home" ] && args+=(--homepage "$home")
   for t in "$@"; do args+=(--add-topic "$t"); done
   run gh repo edit "$OWNER/$repo" "${args[@]}"
 }
-describe hmittou   "Digital edition of a classical Arabic rajaz poem. 100/100 PageSpeed, RTL, SEO-optimised." arabic rtl pwa accessibility seo
-describe alfiya    "Ibn Malik's Alfiyya (Arabic grammar) as a fast, accessible reading site." arabic rtl pwa
-describe atraf     "Atraf al-Durar al-Lawami' by Ibn Barri as a fast reading site." arabic rtl
-describe khalid-curl "A UNIX curl clone written in Java 17 (Coding Challenges)." java curl cli http
-describe libft     "C standard library rebuilt from scratch (42 / 1337): strings, memory, linked lists." c 42-school 1337 libft
-describe anki_madani_numbering "Anki deck for the Madani (last) verse numbering and Warsh mushaf revision." anki quran warsh
+describe hmittou   "Reader and print-ready PDF edition of a classical Arabic rajaz poem. 100/100 PageSpeed, RTL." "https://hmittou.benjelloun.dev" arabic rtl pwa accessibility seo
+describe alfiya    "Ibn Malik's Alfiyya (Arabic grammar) as a fast, accessible reading site." "https://alfiya.benjelloun.dev" arabic rtl pwa
+describe atraf     "Atraf al-Durar al-Lawami' by Ibn Barri as a fast reading site." "https://atraf.benjelloun.dev"
+describe nwd       "Arabic text edition: al-Taqi al-Shaykh's taqriz for the poem Hilyat al-Nawadi." "https://nwd.benjelloun.dev" arabic rtl arabic rtl
+describe khalid-curl "A UNIX curl clone written in Java 17 (Coding Challenges)." "" java curl cli http
+describe libft     "C standard library rebuilt from scratch (42 / 1337): strings, memory, linked lists." "" c 42-school 1337 libft
+describe anki_madani_numbering "Anki deck for the Madani (last) verse numbering and Warsh mushaf revision." "" anki quran warsh
 
 # 3. Pin order on the profile must be set by hand (GitHub has no public API):
 #    Profile > Customize your pins > hmittou, alfiya, atraf, khalid-curl, libft, anki_madani_numbering
@@ -61,8 +63,9 @@ HIDE=(
   loopline khalid009 devise-kh test-new-repo git_practice new now rush 8-sep-2024 LoginPage
   bcgcontest TweakingWithLangGraph GenerateBandName-API
 )
-# Deliberately NOT hidden: nwd, library, share-hub, hbatelier49, ayoub-zrabi, hiabed.github.io,
-# wsl_dotfiles. Several look like live GitHub Pages / client sites; privatising would take them down.
+# Deliberately NOT hidden: nwd (live at nwd.benjelloun.dev), library, share-hub, hbatelier49,
+# ayoub-zrabi, hiabed.github.io, wsl_dotfiles. Several look like live GitHub Pages / client sites;
+# privatising would take them down.
 # Give them a description, or archive them, after checking what they are.
 for r in "${HIDE[@]}"; do
   run gh repo edit "$OWNER/$r" --visibility private --accept-visibility-change-consequences

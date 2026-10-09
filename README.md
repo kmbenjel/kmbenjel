@@ -2,7 +2,7 @@
 
 # Khalid Benjelloun
 
-**Backend & full-stack developer · Ruby on Rails · C · Arabic/RTL web**
+**Developer · Arabic interfaces & digital publishing · Ruby on Rails · C**
 
 Fes, Morocco · Remote-first · Open to junior/entry roles and freelance/contract work
 
@@ -15,7 +15,7 @@ Fes, Morocco · Remote-first · Open to junior/entry roles and freelance/contrac
 
 ## About
 
-I'm a self-taught developer who has been programming since 2012, trained at **1337 / 42 Network** (C, Unix, live peer review with no documentation) and **Le Wagon** (Rails, PostgreSQL). I learn new stacks quickly, ship small and well, and care about performance, accessibility and clean code.
+I'm a self-taught developer who has been programming since 2012, trained at **1337 / 42 Network** (C, Unix, live peer review with no documentation) and **Le Wagon** (Rails, PostgreSQL). I build useful web experiences with an eye for language, clarity and performance: bilingual interfaces, Arabic text editions and print-friendly readers. I learn new stacks quickly and ship small, careful work.
 
 - **Competitive-programming pedigree:** CodinGame **Legend Level in Coding Speed (top 0.1% globally)**, Ruby Certification with Honors, Codewars 5 kyu with 101 kata across 8 languages.
 - **Systems fundamentals:** libft, ft_printf, Minitalk and a hardened Debian server (Born2BeRoot), each defended live.
@@ -26,8 +26,9 @@ I'm a self-taught developer who has been programming since 2012, trained at **13
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://benjelloun.dev/hmittou) | Digital edition of a classical Arabic rajaz poem. 100/100 PageSpeed, fully responsive, SEO-optimised. | HTML, CSS, JS, RTL typography |
-| [**alfiya**](https://github.com/kmbenjel/alfiya) · [**atraf**](https://github.com/kmbenjel/atraf) | Reading sites for classical Arabic didactic poems (Ibn Malik's Alfiyya; Ibn Barri's Atraf), in the same RTL-first style as hmittou. | JavaScript, PWA, RTL |
+| [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://hmittou.benjelloun.dev) | Responsive reader and print-ready PDF edition of a rajaz poem by Dr. Abd al-Hadi Hmittou. 100/100 PageSpeed, SEO-optimised. | HTML, CSS, JS, RTL typography |
+| [**alfiya**](https://github.com/kmbenjel/alfiya) · [live](https://alfiya.benjelloun.dev) <br> [**atraf**](https://github.com/kmbenjel/atraf) · [live](https://atraf.benjelloun.dev) | Reading sites for classical Arabic didactic poems (Ibn Malik's Alfiyya; Ibn Barri's Atraf), in the same RTL-first style as hmittou. | JavaScript, PWA, RTL |
+| [**nwd**](https://github.com/kmbenjel/nwd) · [live](https://nwd.benjelloun.dev) | Arabic text edition of al-Taqi al-Shaykh's taqriz for the poem *Hilyat al-Nawadi*. | HTML, CSS, RTL typography |
 | [**khalid-curl**](https://github.com/kmbenjel/khalid-curl) | My own UNIX `curl` clone from the Coding Challenges series. | Java 17 |
 | [**libft**](https://github.com/kmbenjel/libft) | C standard library rebuilt from scratch: strings, memory, linked lists. | C |
 | [**anki_madani_numbering**](https://github.com/kmbenjel/anki_madani_numbering) | Anki deck for Quran verse-numbering revision (Warsh). 8 stars. | Anki |
@@ -67,5 +68,6 @@ Before this I ran an online bookstore end to end for three years, so I'm comfort
 - Oracle Java Foundations (2025) · SOLID Foundations for Software Design, CodeSignal (2026)
 - freeCodeCamp Arabic translator, named in the 2022 Top Contributor List
 - GitHub: Pull Shark · Arctic Code Vault Contributor · Quickdraw
+- [Full list of 23 certificates](https://benjelloun.dev) (Codecademy, CodinGame, Oracle, Udacity and more)
 
-<sub>Older repositories (42, ALX and bootcamp coursework) are archived and kept public as a record of how I learned.</sub>
+<sub>Older repositories (42, ALX and bootcamp coursework) are kept public as a record of how I learned.</sub>

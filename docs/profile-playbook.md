@@ -30,8 +30,17 @@ Lead with what is hard to fake and easy to verify: **CodinGame Legend (top 0.1%)
 4. **Open-source `shatr` / `create-qasida`** once it is ready. A reusable tool with docs shows more than ten sites built with it.
 5. **Tests and a CI badge** on whichever project you finish next.
 
+## benjelloun.dev: keep it consistent with GitHub
+
+The README now uses the site's own positioning ("Arabic interfaces & digital publishing") and links each project's live subdomain. Suggested changes to the site itself, highest value first:
+
+1. **Add a way to hire you.** The site has no email and no contact or "work with me" section, only social links. Put an email button near the top.
+2. **Put CodinGame Legend (top 0.1%) on the home page.** Right now it's item 20 of a 23-certificate list, so nobody sees it.
+3. **Add alfiya and atraf to Selected work.** Both are live (alfiya.benjelloun.dev, atraf.benjelloun.dev) but not listed.
+4. **Trim the certificate list.** Lead with CodinGame Legend, CodinGame Ruby with Honors and Oracle Java Foundations. Recruiters discount the ten Programming Hub app certificates, and having them all listed dilutes the strong ones. Move the rest behind a "show all" link.
+5. **Pick one primary story.** The site says frontend and digital publishing, while your job search targets backend/full-stack roles. The README bridges both. If you apply mostly for backend roles, add one line about that to the site's intro.
+
 ## Honest caveats
 
-- I could not open benjelloun.dev from this environment (blocked); the README uses the facts recorded in your career-ops CV and digests. Check the portfolio's wording matches.
 - I could not read the individual repos other than by name and description. The archive and private lists are my best guess from names, languages and dates, so skim them before applying.
 - Private repos (career-ops, shatr, create-qasida, phone-library, kobaiti-website) are intentionally not linked from the README.
