@@ -27,7 +27,6 @@ I'm a self-taught developer who has been programming since 2012, trained at **13
 | Project | What it is | Stack |
 |---|---|---|
 | [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://hmittou.benjelloun.dev) | Responsive reader and print-ready PDF edition of a rajaz poem by Dr. Abd al-Hadi Hmittou. 100/100 PageSpeed, SEO-optimised. | HTML, CSS, JS, RTL typography |
-| [**nwd**](https://github.com/kmbenjel/nwd) · [live](https://nwd.benjelloun.dev) | Arabic text edition of al-Taqi al-Shaykh's taqriz for the poem *Hilyat al-Nawadi*. | HTML, CSS, RTL typography |
 | [**libft**](https://github.com/kmbenjel/libft) | C standard library rebuilt from scratch: strings, memory, linked lists. | C |
 | [**anki_madani_numbering**](https://github.com/kmbenjel/anki_madani_numbering) | Anki deck for Quran verse-numbering revision (Warsh). 8 stars. | Anki |
 

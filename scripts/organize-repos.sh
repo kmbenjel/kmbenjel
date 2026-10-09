@@ -32,12 +32,11 @@ describe() { # repo "description" "homepage" topic...
   run gh repo edit "$OWNER/$repo" "${args[@]}"
 }
 describe hmittou   "Reader and print-ready PDF edition of a classical Arabic rajaz poem. 100/100 PageSpeed, RTL." "https://hmittou.benjelloun.dev" arabic rtl pwa accessibility seo
-describe nwd       "Arabic text edition: al-Taqi al-Shaykh's taqriz for the poem Hilyat al-Nawadi." "https://nwd.benjelloun.dev" arabic rtl arabic rtl
 describe libft     "C standard library rebuilt from scratch (42 / 1337): strings, memory, linked lists." "" c 42-school 1337 libft
 describe anki_madani_numbering "Anki deck for the Madani (last) verse numbering and Warsh mushaf revision." "" anki quran warsh
 
 # 3. Pin order on the profile must be set by hand (GitHub has no public API):
-#    Profile > Customize your pins > hmittou, nwd, libft, anki_madani_numbering
+#    Profile > Customize your pins > hmittou, libft, anki_madani_numbering
 
 # 4. Archive finished coursework: stays public as proof of learning, but reads as "done".
 ARCHIVE=(

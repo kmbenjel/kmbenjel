@@ -9,7 +9,7 @@ Lead with what is hard to fake and easy to verify: **CodinGame Legend (top 0.1%)
 ## Do these by hand (2 minutes)
 
 1. **Bio:** replace "Learning to code" (a red flag for recruiters) with the line in `scripts/organize-repos.sh`.
-2. **Pins (4):** hmittou, nwd, libft, anki_madani_numbering. This mixes live sites, low-level C and a tool people use. Four strong pins beat six mixed ones; add more only when a project is finished.
+2. **Pins (3):** hmittou, libft, anki_madani_numbering: a live site, low-level C and a tool people use. A few strong pins beat six mixed ones; add more only when a project is finished.
 3. **Profile photo:** use a clear headshot; recruiters skim faces and names.
 4. **Contribution graph:** Settings > Public profile > tick "Include private contributions" so your steady activity shows.
 5. **Run** `./scripts/organize-repos.sh` once in dry-run mode, edit the lists, then `APPLY=1`.
@@ -17,14 +17,14 @@ Lead with what is hard to fake and easy to verify: **CodinGame Legend (top 0.1%)
 ## Repo organization
 
 - **Loopline:** unfinished, AI-assisted work that needs proper care. It goes private until it has tests, review and a deploy you would defend in an interview.
-- **Showcase (4):** pinned, with descriptions and topics.
+- **Showcase (3):** pinned, with descriptions and topics.
 - **Archive (about 40):** 42, ALX, bootcamp and kata repos. They stay public and show a learning path, but archived repos read as "finished" instead of "abandoned".
-- **Private (about 12):** empty, test and scratch repos. Repos that look like live sites (nwd, share-hub, hbatelier49, ayoub-zrabi, library) are left alone until you confirm what they are. 97 public repos with no signal hide the six that matter.
+- **Private (about 12):** empty, test and scratch repos. Repos that look like live sites (nwd, share-hub, hbatelier49, ayoub-zrabi, library) are left alone until you confirm what they are. 97 public repos with no signal hide the few that matter.
 - 42 school asks students not to publish solutions to current projects. If any of the archived 42 repos could count as that, make them private instead.
 
 ## What I would still add (highest value first)
 
-1. **Proper READMEs for hmittou and nwd:** screenshot, one-line pitch, stack, run steps, live link. Recruiters open the pinned repos and judge the README in 10 seconds.
+1. **A proper README for hmittou:** screenshot, one-line pitch, stack, run steps, live link. Recruiters open the pinned repos and judge the README in 10 seconds.
 2. **Finish loopline properly** (tests, review of generated code, deploy), then bring it back as the Rails showcase. It would be your only Rails project, so it's worth the care.
 3. **One merged PR** in an open-source project whose stack matches the roles you apply to. This is the strongest proof of working in a team that you currently lack.
 4. **Open-source `shatr` / `create-qasida`** once it is ready. A reusable tool with docs shows more than ten sites built with it.
