@@ -30,7 +30,6 @@ describe() { # repo "description" topic...
   for t in "$@"; do args+=(--add-topic "$t"); done
   run gh repo edit "$OWNER/$repo" "${args[@]}"
 }
-describe loopline  "Feedback boards & public roadmaps. Rails 8, Hotwire, Turbo Streams, Kamal." rails ruby hotwire turbo kamal saas
 describe hmittou   "Digital edition of a classical Arabic rajaz poem. 100/100 PageSpeed, RTL, SEO-optimised." arabic rtl pwa accessibility seo
 describe alfiya    "Ibn Malik's Alfiyya (Arabic grammar) as a fast, accessible reading site." arabic rtl pwa
 describe atraf     "Atraf al-Durar al-Lawami' by Ibn Barri as a fast reading site." arabic rtl
@@ -39,7 +38,7 @@ describe libft     "C standard library rebuilt from scratch (42 / 1337): strings
 describe anki_madani_numbering "Anki deck for the Madani (last) verse numbering and Warsh mushaf revision." anki quran warsh
 
 # 3. Pin order on the profile must be set by hand (GitHub has no public API):
-#    Profile > Customize your pins > loopline, hmittou, alfiya, khalid-curl, libft, anki_madani_numbering
+#    Profile > Customize your pins > hmittou, alfiya, atraf, khalid-curl, libft, anki_madani_numbering
 
 # 4. Archive finished coursework: stays public as proof of learning, but reads as "done".
 ARCHIVE=(
@@ -56,10 +55,10 @@ ARCHIVE=(
 )
 for r in "${ARCHIVE[@]}"; do run gh repo archive "$OWNER/$r" --yes; done
 
-# 5. Hide noise: empty, test, scratch or personal-backup repos with nothing to show.
+# 5. Hide noise: empty, test, scratch or unfinished repos (loopline: work in progress, not ready to show).
 #    Check each one is not needed publicly (e.g. linked from a site) before applying.
 HIDE=(
-  khalid009 devise-kh test-new-repo git_practice new now rush 8-sep-2024 LoginPage
+  loopline khalid009 devise-kh test-new-repo git_practice new now rush 8-sep-2024 LoginPage
   bcgcontest TweakingWithLangGraph GenerateBandName-API
 )
 # Deliberately NOT hidden: nwd, library, share-hub, hbatelier49, ayoub-zrabi, hiabed.github.io,

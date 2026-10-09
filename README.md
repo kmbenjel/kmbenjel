@@ -26,7 +26,6 @@ I'm a self-taught developer who has been programming since 2012, trained at **13
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**loopline**](https://github.com/kmbenjel/loopline) | Feedback boards and public roadmaps. A modern Rails 8 app with live updates. | Rails 8, Hotwire, Turbo Streams, Kamal |
 | [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://benjelloun.dev/hmittou) | Digital edition of a classical Arabic rajaz poem. 100/100 PageSpeed, fully responsive, SEO-optimised. | HTML, CSS, JS, RTL typography |
 | [**alfiya**](https://github.com/kmbenjel/alfiya) · [**atraf**](https://github.com/kmbenjel/atraf) | Reading sites for classical Arabic didactic poems (Ibn Malik's Alfiyya; Ibn Barri's Atraf), in the same RTL-first style as hmittou. | JavaScript, PWA, RTL |
 | [**khalid-curl**](https://github.com/kmbenjel/khalid-curl) | My own UNIX `curl` clone from the Coding Challenges series. | Java 17 |
