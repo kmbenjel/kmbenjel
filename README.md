@@ -2,9 +2,9 @@
 
 # Khalid Benjelloun
 
-**Developer · Arabic interfaces & digital publishing · Ruby on Rails · C**
+**AI-Native Systems & Software Developer · Autonomous Workflows · Fullstack & C**
 
-Fes, Morocco · Remote-first · Open to junior/entry roles and freelance/contract work
+Fes, Morocco · Remote-first · Open to ambitious engineering roles & high-impact contracts
 
 [![Portfolio](https://img.shields.io/badge/benjelloun.dev-portfolio-0a7?style=flat-square)](https://benjelloun.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kmbenjel-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kmbenjel)
@@ -15,23 +15,38 @@ Fes, Morocco · Remote-first · Open to junior/entry roles and freelance/contrac
 
 ## About
 
-I'm a self-taught developer who has been programming since 2012, trained at **1337 / 42 Network** (C, Unix, live peer review with no documentation) and **Le Wagon** (Rails, PostgreSQL). I build useful web experiences with an eye for language, clarity and performance: bilingual interfaces, Arabic text editions and print-friendly readers. I learn new stacks quickly and ship small, careful work.
+I'm an **AI-native software developer** combining deep computer science fundamentals (**1337 / 42 Network** C & Unix peer-defense, **Le Wagon** Rails/PostgreSQL) with autonomous agent orchestration and high-speed execution. I build production web applications used by real people, design high-volume data pipelines, and develop custom agent bridges for complete remote system control.
 
-- **Competitive-programming pedigree:** CodinGame **Legend Level in Coding Speed (top 0.1% globally)**, Ruby Certification with Honors, Codewars 5 kyu with 101 kata across 8 languages.
-- **Systems fundamentals:** a set of C libraries and tools built from scratch at 1337 / 42, plus a hardened Debian server (Born2BeRoot), each defended live.
-- **Arabic and RTL specialist:** a niche I build for on purpose. My Arabic sites score **100/100 on Google PageSpeed Insights**.
-- **Languages:** Arabic (native), English, French (professional), Spanish (basic).
+- **AI-Native Engineering & Productivity:** I operate multi-agent developer workflows (Claude Code, Google Antigravity CLI, custom bridges) to deliver production software end-to-end at 10x velocity.
+- **Autonomous Infrastructure:** Built a bidirectional desktop-to-Discord agent bridge enabling continuous supervision and live execution of multi-agent coding sessions directly from a smartphone.
+- **Competitive-Programming Pedigree:** CodinGame **Legend Level in Coding Speed (Top 0.1% globally)**, LeetCode Hard on first attempt, 101 Codewars kata across 8 languages.
+- **Systems & Algorithms Rigor:** Core C standard library (`libft`), custom `ft_printf`, buffered I/O readers, and Unix signal-based IPC client/server pairs built from scratch with zero documentation at 42 Network.
+- **Arabic & RTL Specialist:** High-precision typography, kashida, diacritics, and bilingual layouts scoring **100/100 on Google PageSpeed Insights**.
 
-## Featured work
+---
 
-| Project | What it is | Stack |
+## Featured Work & Production Systems
+
+| Project | Highlights & Capabilities | Stack |
 |---|---|---|
-| [**hmittou**](https://github.com/kmbenjel/hmittou) · [live](https://hmittou.benjelloun.dev) | Responsive reader and print-ready PDF edition of a rajaz poem by Dr. Abd al-Hadi Hmittou. 100/100 PageSpeed, SEO-optimised. | HTML, CSS, JS, RTL typography |
-| **C from scratch (1337 / 42)** <br> [libft](https://github.com/kmbenjel/libft) · [ft_printf](https://github.com/kmbenjel/ft_printf) · [get_next_line](https://github.com/kmbenjel/get_next_line) · [minitalk](https://github.com/kmbenjel/minitalk) | My own C standard library (strings, memory, linked lists), a `printf` built on variadic functions, a buffered line reader over file descriptors, and a client/server pair that talks only through Unix signals. Each defended live in peer review. | C, Unix, Make |
-| [**anki_madani_numbering**](https://github.com/kmbenjel/anki_madani_numbering) | Anki deck for Quran verse-numbering revision (Warsh). 8 stars. | Anki |
+| [**masahif-al-maghrib.com**](https://masahif-al-maghrib.com) | Digital preservation and visual presentation platform for historical Moroccan Qur'anic manuscripts. Built with AI-assisted delivery workflows. | Fullstack Web, Digital Archives, SEO |
+| [**hassanicalligraphy.com**](https://hassanicalligraphy.com) | Cultural digital showcase and interactive gallery preserving Maghrebi & Hassani calligraphy heritage. Active userbase. | Modern Web, CSS/Responsive UI |
+| [**hmittou.benjelloun.dev**](https://hmittou.benjelloun.dev) · [GitHub](https://github.com/kmbenjel/hmittou) | Interactive digital edition and high-precision reader for classical Arabic linguistic heritage. **100/100 PageSpeed**, vector print-ready PDF engine. | JavaScript, HTML5, Custom RTL Typography |
+| **Phone-Library & Autonomous Pipelines** | Large-scale offline digital library processing thousands of volumes: automated computer-vision page cropping, OCR/text normalization, and metadata indexing pipelines. | Python, Computer Vision, Shell, SQLite |
+| **Two-Way Discord Agent Bridge** | Bidirectional agent orchestration bridge connecting Linux desktop agent sessions (Claude Code / Antigravity) with Discord channels for live mobile steering and task dispatch. | Python, AsyncIO, Discord API, Agent Harnesses |
+| **C From Scratch (1337 / 42 Network)** <br> [libft](https://github.com/kmbenjel/libft) · [ft_printf](https://github.com/kmbenjel/ft_printf) · [minitalk](https://github.com/kmbenjel/minitalk) | Standard library implementation (memory, strings, data structures), variadic formatters, and signal-based client/server IPC. Defended live in peer review. | C, Unix Systems, POSIX, Make |
 
-## Toolbox
+---
 
+## Technical Stack & AI Tooling
+
+### AI-Native Productivity & Orchestration
+![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Workflows-10B981?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Autonomous_Pipelines-8B5CF6?style=flat-square)
+
+### Languages & Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,28 +58,18 @@ I'm a self-taught developer who has been programming since 2012, trained at **13
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Also: Bash, SQL, Bootstrap, Selenium, Vim, GNU Make, Regex, Zapier and HubSpot automation.
+---
 
-## Work with me
+## Credentials & Highlights
 
-I take on small, well-scoped contract projects:
+- **1337 / 42 Network** — Common Core (C, algorithms, Unix systems), 2022–2023
+- **Le Wagon** — Full-Stack Web Development Bootcamp (Ruby on Rails, PostgreSQL), 2019
+- **Competitive Speed:** CodinGame Legend Level (Top 0.1% global coding speed)
+- **Certifications:** Oracle Java Foundations (2025) · SOLID Foundations for Software Design (CodeSignal, 2026)
+- **Community:** Named in freeCodeCamp Top Contributor List (2022) · GitHub Arctic Code Vault Contributor & Pull Shark
 
-- **Rails MVPs and internal tools:** CRUD apps, dashboards, Hotwire UIs.
-- **Fast, accessible content sites:** static or PWA, with strong SEO and 100/100 PageSpeed as the goal.
-- **Arabic / RTL websites:** correct typography, kashida, diacritics, bilingual layouts.
-- **Automation:** scripts and glue between tools such as Zapier, HubSpot and Sheets.
+---
 
-Before this I ran an online bookstore end to end for three years, so I'm comfortable talking to the business side and not only the code.
-
-**Fastest way to reach me:** [khalidmailing@gmail.com](mailto:khalidmailing@gmail.com) or [LinkedIn](https://linkedin.com/in/kmbenjel).
-
-## Credentials
-
-- 1337 / 42 Network common core (C, algorithms, Unix), 2022–2023
-- Le Wagon full-stack bootcamp (Rails), 2019
-- Oracle Java Foundations (2025) · SOLID Foundations for Software Design, CodeSignal (2026)
-- freeCodeCamp Arabic translator, named in the 2022 Top Contributor List
-- GitHub: Pull Shark · Arctic Code Vault Contributor · Quickdraw
-- [Full list of 23 certificates](https://benjelloun.dev) (Codecademy, CodinGame, Oracle, Udacity and more)
-
-<sub>Older repositories (42, ALX and bootcamp coursework) are kept public as a record of how I learned.</sub>
+<div align="center">
+  <sub>Open to remote-first engineering teams, high-growth AI startups, and technical partnerships. Reach out at <a href="mailto:khalidmailing@gmail.com">khalidmailing@gmail.com</a>.</sub>
+</div>
