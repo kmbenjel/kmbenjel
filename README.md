@@ -30,7 +30,7 @@ I'm an **AI-native software developer** combining deep computer science fundamen
 
 | Project | Highlights & Capabilities | Stack |
 |---|---|---|
-| [**masahif-al-maghrib.com**](https://masahif-al-maghrib.com) | Digital preservation and visual presentation platform for historical Moroccan Qur'anic manuscripts. Directed and produced bilingual promo video releases (Arabic & English) with high-fidelity visual storytelling using Claude Opus 5.5 Max. | Fullstack Web, Video/Media, SEO |
+| [**masahif-al-maghrib.com**](https://masahif-al-maghrib.com) | Digital preservation and visual presentation platform for historical Moroccan Qur'anic manuscripts. Directed and produced bilingual promo video releases (Arabic & English) with high-fidelity visual storytelling using Claude Code & Multi-Agent-Media Pipeline. | Fullstack Web, Video/Media, SEO |
 | [**hassanicalligraphy.com**](https://hassanicalligraphy.com) | Cultural digital showcase and interactive gallery preserving Maghrebi & Hassani calligraphy heritage. Active userbase. | Modern Web, CSS/Responsive UI |
 | [**hmittou.benjelloun.dev**](https://hmittou.benjelloun.dev) · [GitHub](https://github.com/kmbenjel/hmittou) | Interactive digital edition and high-precision reader for classical Arabic linguistic heritage. **100/100 PageSpeed**, vector print-ready PDF engine. | JavaScript, HTML5, Custom RTL Typography |
 | **Phone-Library & Autonomous Pipelines** | Large-scale offline digital library processing thousands of volumes: automated computer-vision page cropping, OCR/text normalization, and metadata indexing pipelines. | Python, Computer Vision, Shell, SQLite |
