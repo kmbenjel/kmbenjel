@@ -43,9 +43,9 @@ describe workstation-discord-bridge \
   python discord-bot linux systemd ai-agents claude-code antigravity ssh-automation
 
 describe hassanicalligraphy.com \
-  "Interactive digital showcase & virtual masterclass academy for Moroccan Arabic calligraphy — built on Replit with Claude Code & Antigravity connected via SSH." \
+  "Interactive digital showcase & virtual masterclass academy for Moroccan calligraphy — built using Replit, plus Claude Code & Antigravity via VS Code Remote-SSH." \
   "https://hassanicalligraphy.com" \
-  react vite tailwindcss arabic-typography rtl moroccan-calligraphy replit
+  react vite tailwindcss rtl moroccan-calligraphy replit
 
 describe shatr \
   "Publish a fast, accessible, 100/100-PageSpeed Arabic poetry website from plain text — kashida justification, PWA, print-ready PDF engine, and npm create qasida CLI." \
