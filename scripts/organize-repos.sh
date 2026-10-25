@@ -134,3 +134,9 @@ for r in "${HIDE[@]}"; do
   run gh api -X PATCH "repos/$OWNER/$r" -F private=true >/dev/null || true
   echo "✓ Set $OWNER/$r to private"
 done
+
+# 6. Conceal organization memberships from public profile.
+for org in elnakady abu-obaidah-ennaqqadi; do
+  run gh api -X DELETE "orgs/$org/public_members/$OWNER" >/dev/null 2>&1 || true
+  echo "✓ Concealed public membership in $org"
+done
