@@ -131,5 +131,6 @@ HIDE=(
   bcgcontest TweakingWithLangGraph GenerateBandName-API
 )
 for r in "${HIDE[@]}"; do
-  run gh repo edit "$OWNER/$r" --visibility private --accept-visibility-change-consequences || true
+  run gh api -X PATCH "repos/$OWNER/$r" -F private=true >/dev/null || true
+  echo "✓ Set $OWNER/$r to private"
 done
